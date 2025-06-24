@@ -11,8 +11,7 @@
 
 😄 Pronouns: He/Him (Él)
 
-⚡ Fun fact: I run *La 74 GOURMET*, where I serve burgers and chicharrones with love — and between orders, I sneak in time to code. I'm also passionate about learning English and always eager to gain experiences that enrich both my personal and professional journey.
-<!---
+
 dev-gringo/dev-gringo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
